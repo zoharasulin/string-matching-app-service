@@ -45,13 +45,13 @@ The application will calculate the similarity score and display
 
 ```bash
 the result:0.8
-
+```
 ### Testing
 
 To run the unit tests for this project, execute the following command:
 ```bash
 python -m unittest discover tests
-
+```
 ### Contributing
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or a pull request.
 

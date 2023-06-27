@@ -10,7 +10,7 @@ To get started with this project, follow the steps below:
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python: Ensure that Python is installed on your system. You can download and install Python from the official Python website (https://www.python.org) based on your operating system.you need Python 3.9 version or higher
 - FuzzyWuzzy:
   
      ```bash

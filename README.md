@@ -15,12 +15,12 @@ To get started with this project, follow the steps below:
   
      ```bash
       pip install fuzzywuzzy
-      ```
+     ```
 - Flask:
   
   ```bash
       pip install flask
-      ```
+  ```
 ### Installation
 
 1. Clone the repository:

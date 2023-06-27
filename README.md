@@ -11,8 +11,14 @@ To get started with this project, follow the steps below:
 ### Prerequisites
 
 - Python 3.9 or higher
-- Pip package manager
-
+- FuzzyWuzzy: If you don't have the FuzzyWuzzy library installed, you can install it using the following command:
+     ```bash
+      pip install fuzzywuzzy
+      ```
+- Flask: If you don't have the Flask library installed, you can install it using the following command:
+       ```bash
+      pip install flask
+      ```
 ### Installation
 
 1. Clone the repository:
@@ -27,12 +33,6 @@ To get started with this project, follow the steps below:
 4.  Install the project dependencies:
    ```bash
      pip install -r requirements.txt
-   ```
-### Note :
-If you don't have FuzzyWuzzy or Flask installed, you can install them using the following commands:
-   ```bash
-   pip install fuzzywuzzy
-   pip install flask
    ```
 
 ### Usage

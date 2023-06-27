@@ -1,0 +1,17 @@
+from fuzzywuzzy import fuzz
+
+def StringMatching(string1, string2):
+    string1 = string1.lower()  # Convert to lowercase
+    string2 = string2.lower()  # Convert to lowercase
+    stringMatchingPrecentage = fuzz.ratio(string1, string2) / 100.0
+
+    dic={
+
+            'stringMatchingPrecentage':stringMatchingPrecentage
+
+        }
+
+
+    return dic
+
+ 

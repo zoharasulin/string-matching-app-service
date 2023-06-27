@@ -1,7 +1,8 @@
 # String Matching Similarity
 
-This project calculates the similarity score between two input strings using [FuzzyWuzzy](https://github.com/seatgeek/thefuzz) string matching techniques. 
-It utilizes the fuzzywuzzy library to calculate the similarity score based on the Levenshtein distance algorithm.
+This project calculates the similarity score between two input strings using [FuzzyWuzzy](https://github.com/seatgeek/thefuzz) includes a Flask web application that allows users to interact with the string similarity calculation. 
+
+It utilizes the fuzzywuzzy library to calculate the similarity score based on the [Levenshtein distance algorithm](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 # String Matching Similarity
 
-This project calculates the similarity score between two input strings using FuzzyWuzzy string matching techniques. 
+This project calculates the similarity score between two input strings using [FuzzyWuzzy](https://github.com/seatgeek/thefuzz) string matching techniques. 
 It utilizes the fuzzywuzzy library to calculate the similarity score based on the Levenshtein distance algorithm.
 
 ## Getting Started

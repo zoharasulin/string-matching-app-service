@@ -17,7 +17,7 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/zoharasulin/stringmatchingapp.git
    ```
 2. Change to the project directory:
 3.  cd your-repository
@@ -29,7 +29,7 @@ To get started with this project, follow the steps below:
 1. Run the Flask application:
    ```bash
     python app.py
-2. The application will start running on [http://localhost:5000/string-matching](http://localhost:5000/string-matching).
+2. The application will start running on http://localhost:5000/string-matching.
 
 3. Open your web browser and navigate to http://localhost:5000/string-matching.
     You will see a form where you can enter two strings for similarity calculation.

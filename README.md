@@ -20,13 +20,24 @@ To get started with this project, follow the steps below:
    ```bash
    git clone https://github.com/zoharasulin/string-matching-app-service.git
    ```
-2. Change to the project directory:
-3.  cd your-repository
+2. Navigate to the project directory:
+   ```bash
+    cd your-repository
+      ```
 4.  Install the project dependencies:
    ```bash
      pip install -r requirements.txt
    ```
+### Note :
+If you don't have FuzzyWuzzy or Flask installed, you can install them using the following commands:
+   ```bash
+   pip install fuzzywuzzy
+   pip install flask
+   ```
+
 ### Usage
+To use the string similarity calculation in your application, follow these steps:
+
 1. Run the Flask application:
    ```bash
     python app.py

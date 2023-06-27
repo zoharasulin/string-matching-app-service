@@ -18,7 +18,7 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zoharasulin/stringmatchingapp.git
+   git clone https://github.com/zoharasulin/string-matching-app-service.git
    ```
 2. Change to the project directory:
 3.  cd your-repository

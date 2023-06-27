@@ -1,4 +1,4 @@
-# String Matching Similarity
+# String Matching Similarity APP Service
 
 This project calculates the similarity score between two input strings using [FuzzyWuzzy](https://github.com/seatgeek/thefuzz) includes a Flask web application that allows users to interact with the string similarity calculation. 
 

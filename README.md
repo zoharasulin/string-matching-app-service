@@ -11,12 +11,14 @@ To get started with this project, follow the steps below:
 ### Prerequisites
 
 - Python 3.9 or higher
-- FuzzyWuzzy: If you don't have the FuzzyWuzzy library installed, you can install it using the following command:
+- FuzzyWuzzy:
+  
      ```bash
       pip install fuzzywuzzy
       ```
-- Flask: If you don't have the Flask library installed, you can install it using the following command:
-       ```bash
+- Flask:
+  
+  ```bash
       pip install flask
       ```
 ### Installation
